@@ -34,4 +34,17 @@ Fine-tuning Results: InternVL2.5-8B fine-tuned on AutoCaption data achieved:
 
 `models/`: Preprocessing and finetuning scripts for MLLMs
 
+## 📌 Citation  
+```
+@misc{yu2025evaluatingmultimodallargelanguage,
+      title={Evaluating Multimodal Large Language Models on Video Captioning via Monte Carlo Tree Search}, 
+      author={Linhao Yu and Xinguang Ji and Yahui Liu and Fanheng Kong and Chenxi Sun and Jingyuan Zhang and Hongzhi Zhang and V. W. and Fuzheng Zhang and Deyi Xiong},
+      year={2025},
+      eprint={2506.11155},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.11155}, 
+}
+```
+
 
