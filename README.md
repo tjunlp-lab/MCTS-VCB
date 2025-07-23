@@ -1,4 +1,9 @@
-# MCTS-VCB
+# 🏷️ AutoCaption
+
+📄 **[Paper: Evaluating Multimodal Large Language Models on Video Captioning via Monte Carlo Tree Search
+](https://arxiv.org/pdf/2506.11155)**  
+🤗 **[Data](https://huggingface.co/datasets/HasuerYu/AutoCaption)**  
+
 ## 📌 Overview
 
 MCTS-VCB is a fine-grained video captioning benchmark automatically constructed using a novel framework called AutoCaption. AutoCaption employs Monte Carlo Tree Search (MCTS) to generate rich, diverse, and detailed key point captions that thoroughly describe video content.
